@@ -13,7 +13,7 @@
 ---
 
 - 👨‍💻 Software development student at the Technological University of Panama with the goal of improving my skills.
-- 💬 I like video games, music, and creating things with my creativity.
+- 💬 I like video games, music and creating things with my creativity.
 
   
 <a target="_blank" align="center">
